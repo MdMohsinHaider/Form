@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* font-size:large; */
+    color:rgb(0, 0, 0);
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+    font-style:normal;
+    background-image: url(./img/backgroundImg.jpg);
+}
+#bar{
+    padding-top: 10px;
+    margin-bottom: 13pc;
+}
+#div_form input{
+    height: 3pc;
+    width: 20pc;
+}
+#div_form img{
+    height:100pc;
+}
